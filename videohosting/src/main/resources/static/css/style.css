@@ -1,0 +1,22 @@
+body{
+    min-width: 320px;
+    font-size: 14px;
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+}
+
+video{
+    max-width: 100%;
+    height: auto;
+}
+
+header.navbar-light{
+    background-color: lightsteelblue;
+}
+
+header.navbar-brand{
+    font-family: 'Inconsolata', monospace;
+    font-size: 30px;
+    color: white;
+    text-transform: uppercase;
+}
